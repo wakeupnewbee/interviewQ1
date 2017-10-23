@@ -1,0 +1,7 @@
+input the size
+loop form size to 0
+if size dividable by 4 then out put mmmmm
+if size contain 2 output mmmm
+else output size
+
+output mm,mm,m,m,m,mmm

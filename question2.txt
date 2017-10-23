@@ -1,0 +1,17 @@
+Abandon
+Brand
+Creative
+Divide
+Earth
+Fight
+Gorgeous
+Height
+Illness
+Jeep
+
+Cr
+
+
+a list,
+check is the last check exist
+then print him and the following one
